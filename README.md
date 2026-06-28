@@ -26,4 +26,4 @@ This project uses sequence-based bioinformatics to predict the structure and fun
 
 ## Report
 
-See [`Final_Report.pdf`](Final_Report.pdf) for methods, composite diagrams, discussion, and references.
+See [`Final_Report.pdf`](https://github.com/ritikadawadi/Mi-Lipotrymase-Bioinformatics-/blob/main/Final_Report/Final_Report.pdf) for methods, composite diagrams, discussion, and references.
